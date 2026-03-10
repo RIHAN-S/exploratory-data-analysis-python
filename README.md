@@ -6,8 +6,7 @@
 ![DataCamp](https://img.shields.io/badge/DataCamp-Course-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-> **Course:** [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) — DataCamp  
-> **Instructor:** George Boorman | **Duration:** 4 Hours | **Level:** Intermediate  
+> **Course:** [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) — DataCamp
 > **Libraries:** pandas, seaborn, matplotlib, numpy
 
 ---
@@ -166,7 +165,7 @@ Explored global unemployment rates across continents from 2019 to 2021, with a f
 
 ```
 📦 eda-python-datacamp
- ┣ 📂 screenshots/                  # Chart screenshots
+ ┣ 📂 screenshots/                  
  ┣ 📄 portfolio_divorce.py
  ┣ 📄 portfolio_planes.py
  ┣ 📄 portfolio_salaries.py
@@ -178,12 +177,13 @@ Explored global unemployment rates across continents from 2019 to 2021, with a f
 
 ## 🏆 Certificate
 
-> 📜 *Add your DataCamp Statement of Accomplishment link here*  
-> [View Certificate](https://your-certificate-link-here)
+> ![Certificate](screenshots/certificate.png) 
+> [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/8c0864f25bb77eb8bd6eb4fea3a5146b98767c88)
 
 ---
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rihaan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/RIHAN-S)
+
