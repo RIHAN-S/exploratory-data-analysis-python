@@ -53,7 +53,7 @@ Explored a dataset of married and divorced couples, analysing the relationships 
 | Scatterplot (hue) | Age at marriage vs income by education |
 | KDE plot (3 variants) | Duration distribution by number of kids |
 
-> 📸 *Add screenshot here:* `![Divorce Analysis](screenshots/divorce.png)`
+> 📸 ![Divorce Analysis](screenshots/divorce.png)
 
 ---
 
@@ -84,7 +84,7 @@ Cleaned a messy airline pricing dataset, handling missing values, engineering ca
 | Histogram | Distribution of flight duration |
 | Histogram | Distribution of ticket prices (pre & post outlier removal) |
 
-> 📸 *Add screenshot here:* `![Planes Analysis](screenshots/planes.png)`
+> 📸 ![Planes Analysis](screenshots/planes.png)
 
 ---
 
@@ -112,7 +112,7 @@ Analysed data science salary data across job categories, company sizes, experien
 | Bar plot | Average salary — US vs GB |
 | Bar plot (grouped) | Salary by company size & employment status |
 
-> 📸 *Add screenshot here:* `![Salaries Analysis](screenshots/salaries.png)`
+> 📸 ![Salaries Analysis](screenshots/salaries.png)
 
 ---
 
@@ -139,7 +139,7 @@ Explored global unemployment rates across continents from 2019 to 2021, with a f
 | Box plot | 2021 rates by continent |
 | Bar plot | Average unemployment per continent |
 
-> 📸 *Add screenshot here:* `![Unemployment Analysis](screenshots/unemployment.png)`
+> 📸 ![Unemployment Analysis](screenshots/unemployment.png)
 
 ---
 
